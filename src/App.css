@@ -1,0 +1,5 @@
+body, html{
+  overflow: hidden;
+  -webkit-overflow: hidden;
+  -moz-overflow: hidden;
+}

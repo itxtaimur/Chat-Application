@@ -1,0 +1,19 @@
+.admnh_login_main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F5F3F9;
+}
+.admin_login_form{
+    width: 40%;
+    padding-bottom: 10px;
+    background: white;
+}
+.AdminPasswordField, .AdminUserField{
+    background-color: transparent !important;
+}
+#filled-adornment-password , #standard-basic{
+    background-color: transparent !important; 
+}
